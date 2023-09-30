@@ -9,7 +9,7 @@ A curated list of awesome Go tools and resources for writing quality CLIs.
 
 **[⬆ back to top](#contents)**
 
-## Video
+## 📽️ Video
 - [GopherCon 2019: Carolyn Van Slyck - Design Command-Line Tools People Love](https://www.youtube.com/watch?v=eMz0vni6PAw)
 
 **[⬆ back to top](#contents)**
