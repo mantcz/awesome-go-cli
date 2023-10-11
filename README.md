@@ -43,6 +43,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 **[⬆ back to top](#contents)**
 
 ## Videos
-- [GopherCon 2019: Carolyn Van Slyck - Design Command-Line Tools People Love](https://www.youtube.com/watch?v=eMz0vni6PAw)
+- [12 Factor CLI Apps with Cobra](https://www.youtube.com/watch?v=W5qdsAEzgMI) by [Markus Zimmermann](https://twitter.com/markus_zm)
+- [GopherCon 2019: Design Command-Line Tools People Love](https://www.youtube.com/watch?v=eMz0vni6PAw) by [Carolyn Van Slyck](https://twitter.com/carolynvs)
 
 **[⬆ back to top](#contents)**
