@@ -12,6 +12,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 **[⬆ back to top](#contents)**
 
 ## OSS CLIs
+- [cli - Ferret CLI](https://github.com/MontFerret/cli)
 - [cli - GitHub’s official command line tool](https://github.com/cli/cli)
 - [doctl - The official command line interface for the DigitalOcean API](https://github.com/digitalocean/doctl)
 - [goctl - A cloud-native Go microservices framework with cli tool for productivity.](https://github.com/zeromicro/go-zero/tree/master/tools/goctl)
