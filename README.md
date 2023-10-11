@@ -34,6 +34,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 - [chalk - Intuitive package for prettifying terminal/console output](https://github.com/ttacon/chalk)
 - [cobra - A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 - [lipgloss - Style definitions for nice terminal layouts](https://github.com/charmbracelet/lipgloss)
+- [mpb - multi progress bar for Go cli applications](https://github.com/vbauerster/mpb)
 - [simpletable - Simple tables in terminal with Go](https://github.com/alexeyco/simpletable)
 - [spinner - Go package with 90 configurable terminal spinner/progress indicators](https://github.com/briandowns/spinner)
 - [urfave/cli - A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
