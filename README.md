@@ -20,8 +20,9 @@ A curated list of awesome Go tools and resources for writing quality CLIs.
 **[⬆ back to top](#contents)**
 
 ## Tools
-- [cobra](https://github.com/spf13/cobra)
-- [viper](https://github.com/spf13/viper)
+- [cobra - A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+- [urfave/cli - A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
+- [viper - Go configuration with fangs](https://github.com/spf13/viper)
 
 **[⬆ back to top](#contents)**
 
