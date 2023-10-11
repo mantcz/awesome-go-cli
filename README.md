@@ -30,6 +30,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 ## Tools
 - [asciigraph - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies](https://github.com/guptarohit/asciigraph)
 - [aurora - Golang ultimate ANSI-colors that supports Printf/Sprintf methods](https://github.com/logrusorgru/aurora)
+- [bubbletea - A powerful little TUI framework](https://github.com/charmbracelet/bubbletea)
 - [cobra - A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 - [lipgloss - Style definitions for nice terminal layouts](https://github.com/charmbracelet/lipgloss)
 - [urfave/cli - A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
