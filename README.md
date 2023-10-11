@@ -15,6 +15,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 - [bombardier - Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
 - [cli - Ferret CLI](https://github.com/MontFerret/cli)
 - [cli - GitHub’s official command line tool](https://github.com/cli/cli)
+- [CockroachDB - the open source, cloud-native distributed SQL database](https://github.com/cockroachdb/cockroach/tree/master/pkg/cli)
 - [dasel - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package](https://github.com/TomWright/dasel)
 - [doctl - The official command line interface for the DigitalOcean API](https://github.com/digitalocean/doctl)
 - [goctl - A cloud-native Go microservices framework with cli tool for productivity.](https://github.com/zeromicro/go-zero/tree/master/tools/goctl)
