@@ -19,6 +19,7 @@ A curated list of awesome Go tools, resources for writing quality CLIs and OSS p
 - [goctl - A cloud-native Go microservices framework with cli tool for productivity.](https://github.com/zeromicro/go-zero/tree/master/tools/goctl)
 - [k9s - Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)
 - [lux - Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/lux)
+- [octosql - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL](https://github.com/cube2222/octosql)
 - [syft - CLI tool and library for generating a Software Bill of Materials from container images and filesystems](https://github.com/anchore/syft)
 - [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 
