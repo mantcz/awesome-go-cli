@@ -13,6 +13,7 @@ A curated list of awesome Go tools and resources for writing quality CLIs.
 
 ## OSS CLIs
 - [Digital Ocean doctl](https://github.com/digitalocean/doctl)
+- [GitHub’s official command line tool](https://github.com/cli/cli)
 
 **[⬆ back to top](#contents)**
 
