@@ -7,13 +7,15 @@ A curated list of awesome Go tools and resources for writing quality CLIs.
   - [Contents](#contents)
   - ⌨️ [OSS CLIs](#oss-clis)
   - 🛠️ [Tools](#tools)
-  - 📽️ [Video](#video)
+  - 📽️ [Videos](#videos)
 
 **[⬆ back to top](#contents)**
 
 ## OSS CLIs
-- [Digital Ocean doctl](https://github.com/digitalocean/doctl)
-- [GitHub’s official command line tool](https://github.com/cli/cli)
+- [cli - GitHub’s official command line tool](https://github.com/cli/cli)
+- [doctl - Digital Ocean](https://github.com/digitalocean/doctl)
+- [goctl - go-zero](https://github.com/zeromicro/go-zero/tree/master/tools/goctl)
+- [k9s - Kubernetes CLI To Manage Your Clusters In Style!](https://github.com/derailed/k9s)
 
 **[⬆ back to top](#contents)**
 
@@ -23,7 +25,7 @@ A curated list of awesome Go tools and resources for writing quality CLIs.
 
 **[⬆ back to top](#contents)**
 
-## Video
+## Videos
 - [GopherCon 2019: Carolyn Van Slyck - Design Command-Line Tools People Love](https://www.youtube.com/watch?v=eMz0vni6PAw)
 
 **[⬆ back to top](#contents)**
